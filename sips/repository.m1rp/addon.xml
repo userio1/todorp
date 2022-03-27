@@ -1,31 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.m1rp" name="[COLOR slategray]mirepo[/COLOR]" version="0.0.7" provider-name="mirepo">
-    <extension point="xbmc.addon.repository" name="mirepo">
-     <dir>
-        <info>https://raw.githubusercontent.com/userio1/todorp/main/sips/addons.xml</info>
-        <checksum>https://raw.githubusercontent.com/userio1/todorp/main/sips/addons.xml.md5</checksum>
-        <datadir zip="true">https://raw.githubusercontent.com/userio1/main/sips/</datadir>
-     </dir>
-     <dir version="12.0.0">
-        <info>https://github.com/alfa-addon/alfa-repo/raw/master/addons.xml</info>
-        <checksum>https://github.com/alfa-addon/alfa-repo/raw/master/addons.xml.md5</checksum>
-        <datadir zip="true">https://github.com/alfa-addon/alfa-repo/raw/master</datadir>
-     </dir>
-     <dir>
-        <info>https://raw.githubusercontent.com/blackghostaddon/repo/master/addons.xml</info>
-        <checksum>https://raw.githubusercontent.com/blackghostaddon/repo/master/addons.xml.md5</checksum>
-        <datadir zip="true">https://raw.githubusercontent.com/blackghostaddon/repo/master/</datadir>
-	</dir>
-	 <dir>
-		<info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
-	</dir>
+<addon id="repository.Mirepor" name="[COLOR lime]Mi Repositorio[/COLOR] Repo" version="1.0.1" provider-name="Yo Mismo">
+    <extension point="xbmc.addon.repository" name="Mi repositorio">
+        <info>https://raw.githubusercontent.com/xxxxxxxxxxxxxxxxxxxx/Repo/master/Repositorio/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/xxxxxxxxxxxxxxxxxx/Repo/master/Repositorio/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/xxxxxxxxxxxx/master/Repositorio/</datadir>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary>All types of Contents</summary>
-        <description>Find any type of content</description>
-        <disclaimer>The author of this addon do not host any of the content which is found and have no affiliation with any of the content providers. This addon simply searches websites for content. Use at your own risk!</disclaimer>
+        <summary>Repositorio para Mi</summary>
+        <description></description>
+        <disclaimer></disclaimer>
         <platform>all</platform>
     </extension>
 </addon>
