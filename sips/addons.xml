@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="repository.m1r3p" name="M1R3p" version="0.0.1" provider-name="t0d0r3p">
-    <extension point="xbmc.addon.repository" name="T0d0R3p">
+<addon id="repository.m1rp" name="[COLOR slategray]m1rp[/COLOR]" version="0.0.1" provider-name="m1rp">
+    <extension point="xbmc.addon.repository" name="tlm">
      <dir>
         <info>https://raw.githubusercontent.com/xxxxxxxxxxxxxxxxxxxx/Repo/master/Repositorio/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/xxxxxxxxxxxxxxxxxx/Repo/master/Repositorio/addons.xml.md5</checksum>
