@@ -91,11 +91,12 @@
       <checksum>https://k.slyguy.xyz/.repo/addons.xml.md5</checksum>
       <datadir zip="true">https://k.slyguy.xyz/.repo/</datadir>
     </dir>
-    </dir>
+	<dir>
         <info>https://raw.githubusercontent.com/userio1/todorp/main/sips/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/userio1/todorp/main/sips/addons.xml.md5</checksum>
         <datadir zip="true">http://repomx.tk/sips/</datadir>
         <hashes>false</hashes>
+	</dir>
 	 <!--<dir>
 		<info compressed="false">https://github.com/tvaddonsco/tva-release-repo/raw/master/addons.xml</info>
 		<checksum>https://github.com/tvaddonsco/tva-release-repo/raw/master/addons.xml.md5</checksum>
