@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="repository.m1rp" name="[COLOR slategray]m1rp[/COLOR]" version="0.0.7" provider-name="mirepo">
-    <extension point="xbmc.addon.repository" name="m1rp">
+<addon id="repository.m1rp" name="[COLOR slategray]mirepo[/COLOR]" version="0.0.7" provider-name="mirepo">
+    <extension point="xbmc.addon.repository" name="mirepo">
      <dir>
         <info>https://raw.githubusercontent.com/userio1/todorp/main/sips/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/userio1/todorp/main/sips/addons.xml.md5</checksum>
@@ -16,6 +16,11 @@
         <info>https://raw.githubusercontent.com/blackghostaddon/repo/master/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/blackghostaddon/repo/master/addons.xml.md5</checksum>
         <datadir zip="true">https://raw.githubusercontent.com/blackghostaddon/repo/master/</datadir>
+	</dir>
+	 <dir>
+		<info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
 	</dir>
     </extension>
     <extension point="xbmc.addon.metadata">
