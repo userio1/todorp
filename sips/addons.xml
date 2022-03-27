@@ -42,15 +42,8 @@
   <extension point="xbmc.service" library="services.py" start="login|startup"/>
 </addon>
 
-<addon id="repository.tlm" name="[COLOR lime]Tv.[/COLOR][COLOR snow]Latino[/COLOR][COLOR red].Mx[/COLOR][COLOR red] Repo[/COLOR]" version="0.2.4" provider-name="TvLatinoMx">
+<addon id="repository.tlm" name="[COLOR lime]Tv.[/COLOR][COLOR snow]Latino[/COLOR][COLOR red].Mx[/COLOR] Repo" version="0.2.5" provider-name="TvLatinoMx">
     <extension point="xbmc.addon.repository" name="TvLatinoMx Repositorio">
-	 <!--<dir>
-     <dir>
-        <info>http://repomx.tk/sips/addons.xml</info>
-        <checksum>https://raw.githubusercontent.com/userio1/todorp/main/sips/addons.xml.md5</checksum>
-        <datadir zip="true">http://repomx.tk/sips/</datadir>
-     </dir>
-    </dir>-->
      <dir version="12.0.0">
         <info>https://github.com/alfa-addon/alfa-repo/raw/master/addons.xml</info>
         <checksum>https://github.com/alfa-addon/alfa-repo/raw/master/addons.xml.md5</checksum>
@@ -91,23 +84,12 @@
       <checksum>https://k.slyguy.xyz/.repo/addons.xml.md5</checksum>
       <datadir zip="true">https://k.slyguy.xyz/.repo/</datadir>
     </dir>
-	<dir>
+
         <info>https://raw.githubusercontent.com/userio1/todorp/main/sips/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/userio1/todorp/main/sips/addons.xml.md5</checksum>
         <datadir zip="true">http://repomx.tk/sips/</datadir>
         <hashes>false</hashes>
-	</dir>
-	 <!--<dir>
-		<info compressed="false">https://github.com/tvaddonsco/tva-release-repo/raw/master/addons.xml</info>
-		<checksum>https://github.com/tvaddonsco/tva-release-repo/raw/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://github.com/tvaddonsco/tva-release-repo/raw/master/</datadir>
-     </dir>
-     <dir>
-        <info compressed="false">https://raw.githubusercontent.com/XvBMC/repository.xvbmc/master/REPOsitory/xvbmc-addons.xml</info>
-        <checksum>https://raw.githubusercontent.com/XvBMC/repository.xvbmc/master/REPOsitory/xvbmc-addons.xml.md5</checksum>
-        <datadir zip="true">https://raw.githubusercontent.com/XvBMC/repository.xvbmc/master/REPOsitory/zips/</datadir>
-        <hashes>false</hashes>
-    </dir>-->
+
 		 </extension>
     <extension point="xbmc.addon.metadata">
         <summary>TvLatinoMx Repository</summary>
